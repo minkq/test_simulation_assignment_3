@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/minkq/test_simulation_assignment_3.git/static/css/main.18e11287.css",
+    "main.js": "/minkq/test_simulation_assignment_3.git/static/js/main.fddd86af.js",
+    "static/js/483.a8a001aa.chunk.js": "/minkq/test_simulation_assignment_3.git/static/js/483.a8a001aa.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/minkq/test_simulation_assignment_3.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/minkq/test_simulation_assignment_3.git/service-worker.js",
+    "index.html": "/minkq/test_simulation_assignment_3.git/index.html",
+    "main.18e11287.css.map": "/minkq/test_simulation_assignment_3.git/static/css/main.18e11287.css.map",
+    "main.fddd86af.js.map": "/minkq/test_simulation_assignment_3.git/static/js/main.fddd86af.js.map",
+    "483.a8a001aa.chunk.js.map": "/minkq/test_simulation_assignment_3.git/static/js/483.a8a001aa.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/minkq/test_simulation_assignment_3.git/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.fddd86af.js"
+  ]
+}
